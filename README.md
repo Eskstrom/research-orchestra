@@ -1,6 +1,10 @@
 # Research Orchestra
 
-A multi-agent research workflow that turns a question into a concise, source-linked brief. Each step has a clear responsibility so the process stays auditable rather than feeling like a black box.
+**Status: Concept brief.** The features below are proposed; this repository does not yet contain an implemented application or measured results.
+
+[Portfolio](https://eskstrom.github.io/) · [Related projects](https://eskstrom.github.io/?category=tools-play#library)
+
+A proposed multi-agent research workflow for turning a question into a concise, source-linked brief. Each step has a clear responsibility so the process stays auditable rather than feeling like a black box.
 
 ## Workflow
 
@@ -30,4 +34,4 @@ Question → research plan → source collection → evidence notes → synthesi
 
 ## Status
 
-Portfolio project in active design, focused first on transparent research traces and citation quality.
+Design brief only. Workflow orchestration, source collection, citation validation, and published evaluation results remain to be implemented.
