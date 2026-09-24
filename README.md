@@ -35,3 +35,23 @@ Question → research plan → source collection → evidence notes → synthesi
 ## Status
 
 Design brief only. Workflow orchestration, source collection, citation validation, and published evaluation results remain to be implemented.
+
+<!-- portfolio-future-plans:start -->
+## Future plans and PRD direction
+
+*Planning review: 24 September 2026. These are proposed next steps, not completed work or measured outcomes.*
+
+**Priority recommendation:** Deprioritize; consider retirement only if inactive.
+
+Preserve useful material in the private idea backlog instead of committing to another active product roadmap.
+
+### Next scope
+
+- [ ] Save research workflow and citation-validation requirements before any retirement decision.
+- [ ] Check current use, unique branches/assets and incoming links before proposing archive or deletion.
+- [ ] No deletion is authorized by this note and the repository's current status is unchanged.
+
+### Validation and decision criteria
+
+Reopen a PRD only for a differentiated user need plus a measurable source-quality evaluation. Inactivity has not been established; retaining the repository remains an option.
+<!-- portfolio-future-plans:end -->
